@@ -1,4 +1,6 @@
 # VideoSegmentation
 FFMPEG+bat批量分割视频
+
 使用方法：将需要分割的视频复制到VideoSegmentation文件夹下，再拖放到video_segmentation.bat文件上，脚本会自动将视频切割为2秒的片段，并放在和输入视频同名的文件夹下
+
 如果需要改变切割片段的时长，修改video_segmentation.bat中的segment_length即可
